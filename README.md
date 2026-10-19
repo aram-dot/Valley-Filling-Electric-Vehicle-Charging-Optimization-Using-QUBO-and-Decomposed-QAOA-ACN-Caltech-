@@ -1,0 +1,2 @@
+# Valley-Filling-Electric-Vehicle-Charging-Optimization-Using-QUBO-and-Decomposed-QAOA-ACN-Caltech-
+This paper evaluates a hybrid QUBO--QAOA for valley-filling optimization that combines positional encoding, depth-one QAOA, classical local improvement, feasibility repair, and schedule smoothing. The framework is compared with SLSQP, GA, PSO, simulated annealing, parallel tempering and Tabu search.
